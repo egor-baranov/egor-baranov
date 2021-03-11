@@ -12,7 +12,7 @@ I will fill it in later when I have time.
 * [VK](https://vk.com/id332355654)
 * [Spotify](https://open.spotify.com/user/31gbvra6puqeyd4btd45343bd4jq)
 
-### If you are interested in what I am doing, subscribe to my [Russian-language telegram channel](https://t.me/kepler88dblog)
+*If you are interested in what I am doing, subscribe to my [Russian-language telegram channel](https://t.me/kepler88dblog)*
 
 <!--
 **egor-baranov/egor-baranov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
