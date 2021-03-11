@@ -7,7 +7,7 @@ I will fill it in later when I have time.
 
 ### Quick links
 * [Linktree containing all links described here]: https://linktr.ee/kepler88d
-* [Telegram]: https://t.me/kepler88d or https://t.me/egor-baranov
+* [Telegram]: https://t.me/kepler88d
 * [Twitter]: https://twitter.com/kepler88d
 * [VK]: https://vk.com/id332355654
 * [Spotify]: https://open.spotify.com/user/31gbvra6puqeyd4btd45343bd4jq
