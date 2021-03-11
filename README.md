@@ -6,14 +6,13 @@
 I will fill it in later when I have time.
 
 ### Quick links
-* Linktree containing all links described here: linktr.ee/kepler88d
-* Telegram: t.me/kepler88d or t.me/egor-baranov
-* Twitter: twitter.com/kepler88d
-* VK: vk.com/id332355654
-* Spotify: open.spotify.com/user/31gbvra6puqeyd4btd45343bd4jq
+* [Linktree containing all links described here]: https://linktr.ee/kepler88d
+* [Telegram]: https://t.me/kepler88d or https://t.me/egor-baranov
+* [Twitter]: https://twitter.com/kepler88d
+* [VK]: https://vk.com/id332355654
+* [Spotify]: https://open.spotify.com/user/31gbvra6puqeyd4btd45343bd4jq
 
-### If you are interested in what I am doing, subscribe to my Russian-language telegram channel:
-t.me/kepler88dblog
+### [If you are interested in what I am doing, subscribe to my Russian-language telegram channel]: https://t.me/kepler88dblog
 
 <!--
 **egor-baranov/egor-baranov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
