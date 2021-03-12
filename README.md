@@ -1,6 +1,7 @@
 ### Привет 🦐
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egor-baranov&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egor-baranov)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About me
 I will fill it in later when I have time.
