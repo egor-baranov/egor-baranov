@@ -1,6 +1,6 @@
 ### Привет 🦐
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egor-baranov&count_private=true&show_icons=true&hide_title=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egor-baranov&count_private=true&show_icons=true&hide_title=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egor-baranov&layout_compact=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kepler88d)](https://github.com/anuraghazra/github-readme-stats)
 
