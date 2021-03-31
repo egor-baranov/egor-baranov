@@ -5,7 +5,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kepler88d&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About me
-I will fill it in later when I have time.
+I will fill it in later when I have time. 
 
 ### Quick links
 * [Linktree containing all links described here](https://linktr.ee/kepler88d)
