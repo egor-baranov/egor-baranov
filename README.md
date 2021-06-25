@@ -1,7 +1,7 @@
 ### Привет 🦐
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egor-baranov&count_private=true&show_icons=true&hide_title=true)  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kepler88d&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kepler88d)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About me
 I will fill it in later when I have time. 
