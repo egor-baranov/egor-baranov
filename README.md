@@ -1,8 +1,3 @@
-### Привет ඞ
-
-### About me
-I will fill it in later when I have time. 
-
 ### Quick links
 * [Linktree containing all links described here](https://linktr.ee/kepler88d)
 * [Telegram](https://t.me/kepler88d)
