@@ -1,8 +1,5 @@
 ### Привет ඞ
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egor-baranov&count_private=true&show_icons=true&hide_title=true)  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kepler88d)](https://github.com/anuraghazra/github-readme-stats)
-
 ### About me
 I will fill it in later when I have time. 
 
@@ -12,6 +9,10 @@ I will fill it in later when I have time.
 * [Twitter](https://twitter.com/kepler88d)
 * [VK](https://vk.com/id332355654)
 * [Spotify](https://open.spotify.com/user/31gbvra6puqeyd4btd45343bd4jq)
+
+### Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egor-baranov&count_private=true&show_icons=true&hide_title=true)  
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kepler88d)](https://github.com/anuraghazra/github-readme-stats)
 
 *If you are interested in what I am doing, subscribe to my [Russian-language telegram channel](https://t.me/kepler88dblog)*
 
