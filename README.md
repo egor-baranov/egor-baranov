@@ -1,8 +1,9 @@
-### Quick links
+### Links
+* [Website kepler88d.dev](https://kepler88d.dev)
 * [Linktree containing all links described here](https://linktr.ee/kepler88d)
 * [Telegram](https://t.me/kepler88d)
 * [Twitter](https://twitter.com/kepler88d)
-* [VK](https://vk.com/id332355654)
+* [VK](https://vk.com/kepler88d)
 * [Spotify](https://open.spotify.com/user/31gbvra6puqeyd4btd45343bd4jq)
 
 ### Stats
